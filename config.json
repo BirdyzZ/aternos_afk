@@ -1,0 +1,9 @@
+{
+	"ip":"rimururpg.aternos.me",
+	"port": 33428,
+	"name": "RimuruRPG",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (rimurutempest_24(remember_no_spaces)) (rimurutempest_24(remember_no_spaces))",
+	"login-cmd":"/login (rimurutempest_24)"
+}
